@@ -1,0 +1,7 @@
+# Ignorar arquivos do sistema operacional (Mac e Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas de configuração do editor que mudam de pessoa para pessoa
+.vscode/
+.idea/
