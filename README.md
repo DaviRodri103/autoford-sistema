@@ -7,12 +7,12 @@ sistema interno utilizado pelos fuuncionários da empresa autoford.
 - JavaScript (por enquanto, já que nesse semestre é apenas front-end)
 
 # Estrutura do Projeto
-├── css/          # Arquivos de estilo e design
-├── js/           # Scripts e interações em JavaScript
-├── view/         # Páginas HTML do sistema
-├── images/       # Imagens, ícones e mídias
-├── .gitignore    # Arquivos ignorados pelo Git
-└── README.md     # Documentação do projeto
+- css/          # Arquivos de estilo e design
+- js/           # Scripts e interações em JavaScript
+- view/         # Páginas HTML do sistema
+- images/       # Imagens, ícones e mídias
+- .gitignore    # Arquivos ignorados pelo Git
+- README.md     # Documentação do projeto
 
 # Como executar o projeto localmente
 - Clone o repositório para a sua máquina
