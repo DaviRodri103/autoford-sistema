@@ -4,13 +4,16 @@ sistema interno utilizado pelos fuuncionários da empresa autoford.
 # Tecnologias utilizadas
 - HTML 5
 - CSS 3
-- JavaScript (por enquanto, já que nesse semestre é apenas front-end)
+- JavaScript
+- Python
+- MySQL
 
 # Estrutura do Projeto
 - css/          # Arquivos de estilo e design
 - js/           # Scripts e interações em JavaScript
 - view/         # Páginas HTML do sistema
 - images/       # Imagens, ícones e mídias
+- db            # Banco de dados do projeto
 - .gitignore    # Arquivos ignorados pelo Git
 - README.md     # Documentação do projeto
 
