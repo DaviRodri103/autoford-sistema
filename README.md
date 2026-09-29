@@ -30,7 +30,7 @@ sistema interno utilizado pelos fuuncionários da empresa autoford.
 # Como trabalhar com as branches
 As branches presentes são:
 - Main, branch principal onde o projeto funcional deve estar presente
-- Refactor, branch de refatoração, onde devem ser feitas as alterações em funcionalidades já existentes na branch Main
-- Develop, branch de desenvolvimento, onde dever ser feitas as novas funcionalidades do projeto.
+- Refactor-, branch de refatoração, onde devem ser feitas as alterações em funcionalidades já existentes na branch Main
+- Develop-, branch de desenvolvimento, onde dever ser feitas as novas funcionalidades do projeto.
 Todas as vezes em que forem fazer qualquer coisa no projeto, deve-se criar uma nova branch para o desenvolvimento, e só se deve fazer o git merge com a Main após testar as alterações e corrigir possíveis inconsistências.
 Exemplo de nomenclatura: Refactor_index, Develop_login.
